@@ -13,7 +13,6 @@ try {
 document.addEventListener("DOMContentLoaded", () => {
   // Blocked Hostnames Check
   /* const blockedHostnames = [
-    "gointerstellar.app",
     "computers-science.com",
     "roundrockisd.online",
     "algebraxyz.info",
