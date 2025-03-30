@@ -2,6 +2,7 @@
   "name": "edu",
   "description": "?",
   "repository": "https://github.com/isburnett/Interstellar.git",
+  "logo": "https://media-hosting.imagekit.io/28c8ebfc6b3847cd/IMG_4732.jpeg?Expires=1837959923&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=WFmgxo~~r275SPU3bkuvwVBP1VARJonG20sIH3WSgp4rOam~7MUaD~GlzQ2gSmiFlSgZ64Yg2rvuGtNqSWZ9A-u5dnXjGnTpWHBmtrFUW9cSmDaDPVHeIb~tzbHI7QedKtk45GzG7sTSS50fYgiKEG2Nvp4BlIjNJzm4fFUzhHnKyUJZYOhOgfu3JVcQ9SE0T5YfhZMfENuY5Wtt~GyORZt6dS2S-HnYGyc5JYTkv1a3gfv0XrSoFCYQgtAoNEiuOgv84c6uuAH9OT7bB5pDhJtVm22rlS7uSTME4N8D7PHKKP-~yMv1Y7VlI~zdBM8QmXD-G~DQnNwmefd-dHWIwA__",
   "keywords": ["school", "math"],
   "image": "heroku/nodejs"
 }
