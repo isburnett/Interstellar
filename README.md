@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
+    <img src="https://media-hosting.imagekit.io/e5cc657d3e824922/2ED4E9F3-B318-4E6C-B436-F7AB8C793B39.jpeg?Expires=1837959028&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Ww-t3QU38kHzuR03sTgV9z9HMB09-NTyFM396dmOr9N5zL5UEMhfxMqsE~irv2U1wLentarIxM4At5Rdkks5oEq7Yd2UAxg4n2KihnEJkH9uwwDDLy9AN6EeY8-qM5mvfBqKXpIpcJB5VOLJBlAKDN2fQ9-MtTWo-XkWHetxbCSiodNdPCBhieob-LQhbiVNNz9-9G9xLoMCFHwaiVoJ2qRhoIkBsHwUJz-LSKVXNsI2FPl315PjejmcN~82NuC6Okj4wlsxMBmXHjTPaaaQ-kv4V-D~lk2sjJP6Sny-X0x1W8BgbmoOICGXb2oEvA8cwXJfmj7Uy4t34t4zVFyTMQ__">
     <p>Serving over 8+ million users since 2023.<p>
     <p>Watermath is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
